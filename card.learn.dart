@@ -14,7 +14,7 @@ class CardLearn extends StatelessWidget {
             color: Colors.white,
             margin: ProjectMargins.cardMargin,
             child: SizedBox(
-              width: 100,
+              width: 120,
               height: 100,
             ),
           ),
